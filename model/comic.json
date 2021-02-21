@@ -179,8 +179,289 @@
    },
    {
       "id": 4,
-      "birthName": "Daniel Dwight Tosh ",
+      "birthName": "Daniel Dwight Tosh",
       "stageName": "danieltosh",
+      "mother": "not known",
+      "father": "not known",
+      "dateOfBirth": "1975-05-29",
+      "placeOfBirth": "Boppard, Rhineland-Palatinate, West Germany",
+      "alive": true,
+      "diedOn": null,
+      "height": "6'3 (1.91 m)",
+      "nationality": "american",
+      "workingSince": 1985,
+      "education": [
+         "Astronaut High School",
+         "University of Central Florida"
+      ],
+      "twitter": "https://twitter.com/danieltosh",
+      "instagram": "https://www.instagram.com/tosh.0",
+      "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Tosh",
+      "imdb": "https://www.imdb.com/name/nm1169495/",
+      "officialWebsite": "http://danieltosh.com/",
+      "youtube": [
+         "https://www.youtube.com/channel/UCAp990eMLzmei84WNR4ptgA"
+      ],
+      "specials": [
+         "True Stories I Made Up (2005)",
+         "Completely Serious (2007)",
+         "Happy Thoughts (2011)",
+         "Daniel Tosh: People Pleaser (2016)"
+      ],
+      "movies": [
+         "The Love Guru (2008)"
+      ],
+      "videoShows": [
+         "Tosh.0 (2009-2020)"
+      ],
+      "talkShows": null,
+      "audioShows": null,
+      "books": [
+         "Based on a True Story : Not a Memoir (2016)"
+      ]
+   },
+   {
+      "id": 5,
+      "birthName": "George Denis Patrick Carlin",
+      "stageName": "georgecarlin",
+      "mother": "Mary",
+      "father": "Patrick John Carlin",
+      "dateOfBirth": "1937-05-12",
+      "placeOfBirth": "New York City, U.S.",
+      "alive": false,
+      "diedOn": "2008-06-22",
+      "height": " 5' 9 (1.75 m)",
+      "nationality": "american",
+      "workingSince": 1956,
+      "education": [
+         "Cardinal Hayes High School, NY, US",
+         "Bishop Dubois High School, NY, US"
+      ],
+      "twitter": null,
+      "instagram": null,
+      "wikipedia": "https://en.wikipedia.org/wiki/George_Carlin",
+      "imdb": "https://www.imdb.com/name/nm0137506/",
+      "officialWebsite": "https://georgecarlin.com/",
+      "youtube": null,
+      "specials": [
+         "Burns and Carlin at the Playboy Club Tonight (1963)",
+         "Take-Offs and Put-Ons (1967)",
+         "FM & AM (1972)",
+         "Class Clown (1972)",
+         "Occupation: Foole (1973)",
+         "Toledo Window Box (1974)",
+         "An Evening with Wally Londo Featuring Bill Slaszo (1975)",
+         "On the Road (1977)",
+         "On Location: George Carlin at USC (1977)",
+         "George Carlin: Again! (1978)",
+         "Carlin at Carnegie (1982)",
+         "Carlin on Campus (1984)",
+         "Playin' with Your Head (1986)",
+         "What Am I Doing in New Jersey? (1988)",
+         "Doin' It Again (1990)",
+         "Jammin' in New York (1992)",
+         "Back in Town (1996)",
+         "George Carlin: 40 Years of Comedy (1997)",
+         "You Are All Diseased (1999)",
+         "Complaints and Grievances (2001)",
+         "Life Is Worth Losing (2005)",
+         "All My Stuff (2007)",
+         "It's Bad for Ya (2008)"
+      ],
+      "movies": [
+         "With Six You Get Eggroll (1968)",
+         "Car Wash (1976)",
+         "Americathon (1979)",
+         "Outrageous Fortune (1987)",
+         "Bill & Ted's Excellent Adventure (1989)",
+         "Working Tra$h (1990)",
+         "Bill & Ted's Bogus Journey (1991)",
+         "The Prince of Tides (1991)",
+         "Streets of Laredo (1995)",
+         "Dogma (1999)",
+         "Jay and Silent Bob Strike Back (2001)",
+         "Scary Movie 3 (2003)",
+         "Jersey Girl (2004)",
+         "The Aristocrats (2005)",
+         "Tarzan II (2005)",
+         "Cars (2006)",
+         "Happily N'Ever After (2007)",
+         "Bill & Ted Face the Musi (2020)"
+      ],
+      "videoShows": [
+         "The Flip Wilson Show (1971–1973)",
+         "The George Carlin Show (1994–1995)",
+         "Mr. Conductor's Thomas Tales (1996)",
+         "Storytime with Thomas (1999)",
+         "Justin Case (1988)"
+      ],
+      "talkShows": null,
+      "audioShows": [
+         "Brain Droppings",
+         "Napalm and Silly Putty",
+         "More Napalm & Silly Putty",
+         "When Will Jesus Bring the Pork Chops?"
+      ],
+      "books": [
+         "Sometimes a Little Brain Damage Can Help (1984)",
+         "Brain Droppings (1997)",
+         "Napalm and Silly Putty (2001)",
+         "When Will Jesus Bring the Pork Chops? (2004)",
+         "Three Times Carlin: An Orgy of George (2006)",
+         "Last Words (2009)"
+      ]
+   },
+   {
+      "id": 6,
+      "birthName": "Ricky Dene Gervais",
+      "stageName": "rickeygervais",
+      "mother": "Eva Sophia",
+      "father": "Lawrence Raymond Gervais",
+      "dateOfBirth": "1961-06-25",
+      "placeOfBirth": "Reading, Berkshire, England",
+      "alive": true,
+      "diedOn": null,
+      "height": "5'8 (1.73 m)",
+      "nationality": "english",
+      "workingSince": 1985,
+      "education": [
+         "University College London",
+         "University of London"
+      ],
+      "twitter": "https://twitter.com/rickygervais",
+      "instagram": "https://www.instagram.com/rickygervais/",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ricky_Gervais",
+      "imdb": "https://www.imdb.com/name/nm0315041/",
+      "officialWebsite": "https://www.rickygervais.com/",
+      "youtube": [
+         "https://www.youtube.com/channel/UCry7B7DGVgUIa6k4Tis_DJQ"
+      ],
+      "specials": [
+         "Animals (2003)",
+         "Politics (2004)",
+         "Fame (2007)",
+         "Science (2009)",
+         "Humanity (2017)",
+         "SuperNature (2019)"
+      ],
+      "movies": [
+         "Dog Eat Dog (2001)",
+         "Fat Slags (2004)",
+         "Valiant (2005)",
+         "For Your Consideration (2006)",
+         "Night at the Museum (2006)",
+         "Stardust (2007)",
+         "Ghost Town (2008)",
+         "Night at the Museum: Battle of the Smithsonian (2009)",
+         "The Invention of Lying (2009)",
+         "Cemetery Junction (2010)",
+         "Spy Kids: All the Time in the World (2011)",
+         "The Muppets (2011)",
+         "The Unbelievers (2013)",
+         "Escape from Planet Earth (2013)",
+         "Muppets Most Wanted (2014)",
+         "Night at the Museum: Secret of the Tomb (2014)",
+         "The Little Prince  (2015)",
+         "Special Correspondents (2016)",
+         "David Brent: Life on the Road  (2016)",
+         "The Willoughbys (2020)",
+         "Blazing Samurai (2021)"
+      ],
+      "videoShows": [
+         "The 11 O'Clock Show (2000)",
+         "The Office (2001–2003)",
+         "Extras (2005-2007)",
+         "An Idiot Abroad (2010-2012)",
+         "Louie (2010)",
+         "67th Golden Globe Awards (2010)",
+         "68th Golden Globe Awards (2011)",
+         "Derek (2012–2014)",
+         "69th Golden Globe Awards (2012)",
+         "73rd Golden Globe Awards (2017)",
+         "Child Support (2018)",
+         "After Life (2019)",
+         "77th Golden Globe Awards (2020)"
+      ],
+      "talkShows": [
+         "Meet Ricky Gervais (2000)",
+         "Ricky Gervais Meets... (2006)"
+      ],
+      "audioShows": [
+         "The Ricky Gervais Show (2010-2012)"
+      ],
+      "books": [
+         "Based on a True Story : Not a Memoir (2016)"
+      ]
+   },
+   {
+      "id": 7,
+      "birthName": "John Marwood Cleese",
+      "stageName": "johncleese",
+      "mother": "not known",
+      "father": "not known",
+      "dateOfBirth": "1939-10-27",
+      "placeOfBirth": "Weston-super-Mare, Somerset, England",
+      "alive": true,
+      "diedOn": null,
+      "height": "6'3 (1.91 m)",
+      "nationality": "american",
+      "workingSince": 1985,
+      "education": [
+         "St Peter's Preparatory School",
+         "Downing College, Cambridge"
+      ],
+      "twitter": "https://twitter.com/danieltosh",
+      "instagram": "https://www.instagram.com/tosh.0",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Cleese",
+      "imdb": "https://www.imdb.com/name/nm1169495/",
+      "officialWebsite": "http://danieltosh.com/",
+      "youtube": [
+         "https://www.youtube.com/channel/UCAp990eMLzmei84WNR4ptgA"
+      ],
+      "specials": [
+         "Ridiculous (2006)",
+         "Me Doing Stand-Up (2011)",
+         "Hitler's Dog, Gossip & Trickery (2017)"
+      ],
+      "movies": [
+         "Billy Madison (1995)",
+         "The People vs. Larry Flynt (1996)",
+         "Dirty Work (1998)",
+         "Dr. Dolittle (1998)",
+         "Deuce Bigalow: Male Gigolo (1999)",
+         "Man on the Moon (1999)",
+         "Screwed (2000)",
+         "The Animal (2001)",
+         "The 7th Dwarf (2014)",
+         "The Ridiculous Six (2015)",
+         "Treasure Hounds (2017)",
+         "Klaus (2019)"
+      ],
+      "videoShows": [
+         "The Dennis Miller Show",
+         "Roseanne (1992-1993)",
+         "Saturday Night Live (1993–1998)",
+         "The Norm Show",
+         "A Minute with Stan Hooper"
+      ],
+      "talkShows": [
+         "Sports Show with Norm Macdonald (2011)",
+         "Norm Macdonald Live (2013)",
+         "Norm Macdonald Has a Show (2018)",
+         "Quarantined (2020)"
+      ],
+      "audioShows": [
+         "I'm Sorry, I'll Read That Again (1964–1973)",
+         "I'm Sorry I Haven't a Clue (1972)"
+      ],
+      "books": [
+         "Based on a True Story : Not a Memoir (2016)"
+      ]
+   },
+   {
+      "id": 8,
+      "birthName": "Daniel Dwight Tosh ",
+      "stageName": "robinwilliams",
       "mother": "not known",
       "father": "not known",
       "dateOfBirth": "1975-05-29",
@@ -238,5 +519,268 @@
       "books": [
          "Based on a True Story : Not a Memoir (2016)"
       ]
+   },
+   {
+      "id": 9,
+      "birthName": "Jose Mario Covaco",
+      "stageName": "hoezaay",
+      "mother": "not known",
+      "father": "not known",
+      "dateOfBirth": "1982-01-28",
+      "placeOfBirth": "Mumbai, Maharashtra, India",
+      "alive": true,
+      "diedOn": null,
+      "height": "5'8 (1.73 m)",
+      "nationality": "indian",
+      "workingSince": 2004,
+      "education": null,
+      "twitter": "https://twitter.com/hoezaay",
+      "instagram": "https://www.instagram.com/hoezaay/",
+      "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Tosh",
+      "imdb": "https://www.imdb.com/name/nm9347490/",
+      "officialWebsite": "http://danieltosh.com/",
+      "youtube": [
+         "https://www.youtube.com/channel/UCl8pIdFFwkevWKPxU7npUzQ"
+      ],
+      "specials": null,
+      "movies": null,
+      "videoShows": null,
+      "talkShows": [
+         "Anti-Social Network (2019)"
+      ],
+      "audioShows": [
+         "Kaan Masti",
+         "Ho Kya Rha Hai",
+         "Love Clinic",
+         "Ghost Stories"
+      ],
+      "books": null
+   },
+   {
+      "id": 10,
+      "birthName": "Daniel Dwight Tosh ",
+      "stageName": "jaspalbhatti",
+      "mother": "not known",
+      "father": "not known",
+      "dateOfBirth": "1975-05-29",
+      "placeOfBirth": "Boppard, Rhineland-Palatinate, West Germany",
+      "alive": true,
+      "diedOn": null,
+      "height": "6'3 (1.91 m)",
+      "nationality": "american",
+      "workingSince": 1985,
+      "education": [
+         "Quebec High School, Quebec, Canada",
+         "Gloucester High School, Ontario, Canada"
+      ],
+      "twitter": "https://twitter.com/danieltosh",
+      "instagram": "https://www.instagram.com/tosh.0",
+      "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Tosh",
+      "imdb": "https://www.imdb.com/name/nm1169495/",
+      "officialWebsite": "http://danieltosh.com/",
+      "youtube": [
+         "https://www.youtube.com/channel/UCAp990eMLzmei84WNR4ptgA"
+      ],
+      "specials": [
+         "Ridiculous (2006)",
+         "Me Doing Stand-Up (2011)",
+         "Hitler's Dog, Gossip & Trickery (2017)"
+      ],
+      "movies": [
+         "Billy Madison (1995)",
+         "The People vs. Larry Flynt (1996)",
+         "Dirty Work (1998)",
+         "Dr. Dolittle (1998)",
+         "Deuce Bigalow: Male Gigolo (1999)",
+         "Man on the Moon (1999)",
+         "Screwed (2000)",
+         "The Animal (2001)",
+         "The 7th Dwarf (2014)",
+         "The Ridiculous Six (2015)",
+         "Treasure Hounds (2017)",
+         "Klaus (2019)"
+      ],
+      "videoShows": [
+         "The Dennis Miller Show",
+         "Roseanne (1992-1993)",
+         "Saturday Night Live (1993–1998)",
+         "The Norm Show",
+         "A Minute with Stan Hooper"
+      ],
+      "talkShows": [
+         "Sports Show with Norm Macdonald (2011)",
+         "Norm Macdonald Live (2013)",
+         "Norm Macdonald Has a Show (2018)",
+         "Quarantined (2020)"
+      ],
+      "audioShows": null,
+      "books": [
+         "Based on a True Story : Not a Memoir (2016)"
+      ]
+   },
+   {
+      "id": 11,
+      "birthName": "Daniel Dwight Tosh ",
+      "stageName": "davechappelle",
+      "mother": "not known",
+      "father": "not known",
+      "dateOfBirth": "1975-05-29",
+      "placeOfBirth": "Boppard, Rhineland-Palatinate, West Germany",
+      "alive": true,
+      "diedOn": null,
+      "height": "6'3 (1.91 m)",
+      "nationality": "american",
+      "workingSince": 1985,
+      "education": [
+         "Quebec High School, Quebec, Canada",
+         "Gloucester High School, Ontario, Canada"
+      ],
+      "twitter": "https://twitter.com/danieltosh",
+      "instagram": "https://www.instagram.com/tosh.0",
+      "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Tosh",
+      "imdb": "https://www.imdb.com/name/nm1169495/",
+      "officialWebsite": "http://danieltosh.com/",
+      "youtube": [
+         "https://www.youtube.com/channel/UCAp990eMLzmei84WNR4ptgA"
+      ],
+      "specials": [
+         "Ridiculous (2006)",
+         "Me Doing Stand-Up (2011)",
+         "Hitler's Dog, Gossip & Trickery (2017)"
+      ],
+      "movies": [
+         "Billy Madison (1995)",
+         "The People vs. Larry Flynt (1996)",
+         "Dirty Work (1998)",
+         "Dr. Dolittle (1998)",
+         "Deuce Bigalow: Male Gigolo (1999)",
+         "Man on the Moon (1999)",
+         "Screwed (2000)",
+         "The Animal (2001)",
+         "The 7th Dwarf (2014)",
+         "The Ridiculous Six (2015)",
+         "Treasure Hounds (2017)",
+         "Klaus (2019)"
+      ],
+      "videoShows": [
+         "The Dennis Miller Show",
+         "Roseanne (1992-1993)",
+         "Saturday Night Live (1993–1998)",
+         "The Norm Show",
+         "A Minute with Stan Hooper"
+      ],
+      "talkShows": [
+         "Sports Show with Norm Macdonald (2011)",
+         "Norm Macdonald Live (2013)",
+         "Norm Macdonald Has a Show (2018)",
+         "Quarantined (2020)"
+      ],
+      "audioShows": null,
+      "books": [
+         "Based on a True Story : Not a Memoir (2016)"
+      ]
+   },
+   {
+      "id": 12,
+      "birthName": "Daniel Dwight Tosh ",
+      "stageName": "biswakalyanrath",
+      "mother": "not known",
+      "father": "not known",
+      "dateOfBirth": "1975-05-29",
+      "placeOfBirth": "Boppard, Rhineland-Palatinate, West Germany",
+      "alive": true,
+      "diedOn": null,
+      "height": "6'3 (1.91 m)",
+      "nationality": "american",
+      "workingSince": 1985,
+      "education": [
+         "Quebec High School, Quebec, Canada",
+         "Gloucester High School, Ontario, Canada"
+      ],
+      "twitter": "https://twitter.com/danieltosh",
+      "instagram": "https://www.instagram.com/tosh.0",
+      "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Tosh",
+      "imdb": "https://www.imdb.com/name/nm1169495/",
+      "officialWebsite": "http://danieltosh.com/",
+      "youtube": [
+         "https://www.youtube.com/channel/UCAp990eMLzmei84WNR4ptgA"
+      ],
+      "specials": [
+         "Ridiculous (2006)",
+         "Me Doing Stand-Up (2011)",
+         "Hitler's Dog, Gossip & Trickery (2017)"
+      ],
+      "movies": [
+         "Billy Madison (1995)",
+         "The People vs. Larry Flynt (1996)",
+         "Dirty Work (1998)",
+         "Dr. Dolittle (1998)",
+         "Deuce Bigalow: Male Gigolo (1999)",
+         "Man on the Moon (1999)",
+         "Screwed (2000)",
+         "The Animal (2001)",
+         "The 7th Dwarf (2014)",
+         "The Ridiculous Six (2015)",
+         "Treasure Hounds (2017)",
+         "Klaus (2019)"
+      ],
+      "videoShows": [
+         "The Dennis Miller Show",
+         "Roseanne (1992-1993)",
+         "Saturday Night Live (1993–1998)",
+         "The Norm Show",
+         "A Minute with Stan Hooper"
+      ],
+      "talkShows": [
+         "Sports Show with Norm Macdonald (2011)",
+         "Norm Macdonald Live (2013)",
+         "Norm Macdonald Has a Show (2018)",
+         "Quarantined (2020)"
+      ],
+      "audioShows": null,
+      "books": [
+         "Based on a True Story : Not a Memoir (2016)"
+      ]
+   },
+   {
+      "id": 13,
+      "birthName": "Zakir Khan",
+      "stageName": "zakirkhan",
+      "mother": "Kulsum Khan",
+      "father": "Ismail Khan",
+      "dateOfBirth": "1987-08-20",
+      "placeOfBirth": "Indore, Madhya Pradesh, India",
+      "alive": true,
+      "diedOn": null,
+      "height": "5'7 (1.7 m)",
+      "nationality": "indian",
+      "workingSince": 2009,
+      "education": [
+         "St. Paul Higher Secondary School, Indore"
+      ],
+      "twitter": "https://twitter.com/zakirism",
+      "instagram": "https://www.instagram.com/zakirkhan_208",
+      "wikipedia": "https://en.wikipedia.org/wiki/Zakir_Khan",
+      "imdb": "https://www.imdb.com/name/nm6321286/",
+      "officialWebsite": null,
+      "youtube": "www.youtube.com/channel/UCJlme3DJ-DYa4064lqkRSiQ",
+      "specials": [
+         "Zakir Khan: Haq se Single (2017)",
+         "Kaksha Gyarvi (2018)"
+      ],
+      "movies": null,
+      "videoShows": [
+         "On Air with AIB (2015)",
+         "Chacha Vidhayak Hain Humare (2018)",
+         "Comicstaan Season 2 (2019)",
+         " The Great Indian Laughter Challenge (2019)"
+      ],
+      "talkShows": [
+         "Hmm Achha Theek Hai with Zakir Khan"
+      ],
+      "audioShows": [
+         "Ummeed on Gaana (2020)"
+      ],
+      "books": null
    }
 ]

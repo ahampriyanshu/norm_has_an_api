@@ -1,5 +1,5 @@
 <p align="center"><img height="200" src="https://github.com/ahampriyanshu/norm/raw/media/logo.png"></p>
-<h3 align="center">a funny api for funny people</h3>
+<h5 align="center">a funny api for funny people</h5>
 
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ahampriyanshu/norm_has_an_api)
