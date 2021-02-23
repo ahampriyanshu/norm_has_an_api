@@ -4,7 +4,7 @@
   "description": "a funny API for funny people",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "nodemon server.js",
     "test": "echo \"No test specified\" && exit 0"
   },
   "repository": {

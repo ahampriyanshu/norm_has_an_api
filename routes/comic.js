@@ -5,6 +5,11 @@ const comicRoute = (app, fs) => {
     const _ = require("underscore");
     const thisYear = new Date().getFullYear()
 
+    function isValid(rawData) {
+        console.log(rawData.length);
+        return rawData.length === 0 ? "No comic found but you can always add one :)" : rawData  ;
+    }
+
     app.get('/comic/:query?', (req, res) => {
         fs.readFile(jsonData, 'utf8', (err, data) => {
             if (err) {
@@ -24,7 +29,7 @@ const comicRoute = (app, fs) => {
                 filteredData[i] = object;
             }
             console.log(`⚡️[comic]: random comic fetched successfully`);
-            res.send(filteredData);
+            res.send(isValid(filteredData));
         });
     });
 
@@ -34,13 +39,11 @@ const comicRoute = (app, fs) => {
                 throw err;
             }
             const parsedJSON = JSON.parse(data);
-            var query = req.params.query || "danieltosh";
-            query = where.lowerCase(query);
-            query = query.replace(/\s/g, '');
-            console.log(query)
-            const filteredData = _.where(parsedJSON, { stageName: query });
+            var query = req.params.query ;
+            query = where.lowerCase(query).replace(/\s/g, '');
+            const filteredData = _.where(parsedJSON, { name: query });
             console.log(`⚡️[comic]: ${query} fetched successfully`);
-            res.send(filteredData);
+            res.send(isValid(filteredData));
         });
     });
     
@@ -51,10 +54,10 @@ const comicRoute = (app, fs) => {
                 throw err;
             }
             const parsedJSON = JSON.parse(data);
-            const query = req.params.query || "british";
+            const query = req.params.query;
             const filteredData = _.where(parsedJSON, { nationality: query });
             console.log(`⚡️[comic]: ${query} comic fetched successfully`);
-            res.send(filteredData);
+            res.send(isValid(filteredData));
         });
     });
 
@@ -69,7 +72,7 @@ const comicRoute = (app, fs) => {
             const query = parseInt(req.params.query) || parseInt(keys[Math.floor(keys.length * Math.random())]) + 1;
             const filteredData = _.where(parsedJSON, { id: query });
             console.log(`⚡️[comic]: comic with ${query} id fetched successfully`);
-            res.send(filteredData);
+            res.send(isValid(filteredData));
         });
     });
 
@@ -80,10 +83,10 @@ const comicRoute = (app, fs) => {
                 throw err;
             }
             const parsedJSON = JSON.parse(data);
-            const query = parseInt(req.params.query) || parseInt(Math.floor(15 + (45 - 16) * Math.random()));
+            const query = parseInt(req.params.query);
             const filteredData = _.filter(parsedJSON, ({ dateOfBirth }) => thisYear - dateOfBirth.split('-')[0] >= query);
             console.log(`⚡️[comic]: comic with minimum age ${query} fetched successfully`);
-            res.send(filteredData);
+            res.send(isValid(filteredData));
         });
     });
 
@@ -94,10 +97,10 @@ const comicRoute = (app, fs) => {
                 throw err;
             }
             const parsedJSON = JSON.parse(data);
-            const query = parseInt(req.params.query) || parseInt(Math.floor(15 + (45 - 16) * Math.random()));
+            const query = parseInt(req.params.query);
             const filteredData = _.filter(parsedJSON, ({ dateOfBirth }) => thisYear - dateOfBirth.split('-')[0] <= query);
             console.log(`⚡️[comic]: comic with maximum age ${query} fetched successfully`);
-            res.send(filteredData);
+            res.send(isValid(filteredData));
         });
     });
 
@@ -108,10 +111,10 @@ const comicRoute = (app, fs) => {
                 throw err;
             }
             const parsedJSON = JSON.parse(data);
-            const query = parseInt(req.params.query) || parseInt(Math.floor(15 + (45 - 16) * Math.random()));
+            const query = parseInt(req.params.query);
             const filteredData = _.filter(parsedJSON, ({ dateOfBirth }) => dateOfBirth.split('-')[0] > query);
             console.log(`⚡️[comic]: comic bornafter ${query} fetched successfully`);
-            res.send(filteredData);
+            res.send(isValid(filteredData));
         });
     });
 
@@ -122,10 +125,10 @@ const comicRoute = (app, fs) => {
                 throw err;
             }
             const parsedJSON = JSON.parse(data);
-            const query = parseInt(req.params.query) || parseInt(Math.floor(15 + (45 - 16) * Math.random()));
+            const query = parseInt(req.params.query);
             const filteredData = _.filter(parsedJSON, ({ dateOfBirth }) => dateOfBirth.split('-')[0] < query);
             console.log(`⚡️[comic]: comic bornbefore ${query} fetched successfully`);
-            res.send(filteredData);
+            res.send(isValid(filteredData));
         });
     });
 
@@ -139,7 +142,7 @@ const comicRoute = (app, fs) => {
             const query = (req.params.query === 'true');
             const filteredData = _.where(parsedJSON, { alive: query });
             console.log(`⚡️[comic]: all alive:${query} comics fetched successfully`);
-            res.send(filteredData);
+            res.send(isValid(filteredData));
         });
     });
 
@@ -151,10 +154,10 @@ const comicRoute = (app, fs) => {
                 throw err;
             }
             const parsedJSON = JSON.parse(data);
-            const query = parseInt(req.params.query) || parseInt(Math.floor(1900 + (2021 - 1900) * Math.random()));
+            const query = parseInt(req.params.query);
             const filteredData = _.filter(parsedJSON, ({ workingSince }) => workingSince >= query);
             console.log(`⚡️[comic]: comic working since  ${query} fetched successfully`);
-            res.send(filteredData);
+            res.send(isValid(filteredData));
         });
     });
 

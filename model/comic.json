@@ -2,7 +2,7 @@
    {
       "id": 1,
       "birthName": "Norman Gene Macdonald",
-      "stageName": "normmacdonald",
+      "name": "normmacdonald",
       "mother": "Ferne Macdonald",
       "father": "Percy Lloyd Macdonald",
       "dateOfBirth": "1959-10-17",
@@ -64,7 +64,7 @@
    {
       "id": 2,
       "birthName": "William Frederick Burr",
-      "stageName": "billburr",
+      "name": "billburr",
       "mother": "Linda Ann",
       "father": "Robert Edmund Burr",
       "dateOfBirth": "1968-06-10",
@@ -122,7 +122,7 @@
    {
       "id": 3,
       "birthName": "Louis Székely",
-      "stageName": "louieck",
+      "name": "louieck",
       "mother": "Mary Louise",
       "father": "Luis Székely.",
       "dateOfBirth": "1967-08-12",
@@ -180,9 +180,9 @@
    {
       "id": 4,
       "birthName": "Daniel Dwight Tosh",
-      "stageName": "danieltosh",
-      "mother": "not known",
-      "father": "not known",
+      "name": "danieltosh",
+      "mother": "????",
+      "father": "????",
       "dateOfBirth": "1975-05-29",
       "placeOfBirth": "Boppard, Rhineland-Palatinate, West Germany",
       "alive": true,
@@ -223,7 +223,7 @@
    {
       "id": 5,
       "birthName": "George Denis Patrick Carlin",
-      "stageName": "georgecarlin",
+      "name": "georgecarlin",
       "mother": "Mary",
       "father": "Patrick John Carlin",
       "dateOfBirth": "1937-05-12",
@@ -314,7 +314,7 @@
    {
       "id": 6,
       "birthName": "Ricky Dene Gervais",
-      "stageName": "rickeygervais",
+      "name": "rickeygervais",
       "mother": "Eva Sophia",
       "father": "Lawrence Raymond Gervais",
       "dateOfBirth": "1961-06-25",
@@ -396,9 +396,9 @@
    {
       "id": 7,
       "birthName": "John Marwood Cleese",
-      "stageName": "johncleese",
-      "mother": "not known",
-      "father": "not known",
+      "name": "johncleese",
+      "mother": "????",
+      "father": "????",
       "dateOfBirth": "1939-10-27",
       "placeOfBirth": "Weston-super-Mare, Somerset, England",
       "alive": true,
@@ -461,9 +461,9 @@
    {
       "id": 8,
       "birthName": "Daniel Dwight Tosh ",
-      "stageName": "robinwilliams",
-      "mother": "not known",
-      "father": "not known",
+      "name": "robinwilliams",
+      "mother": "????",
+      "father": "????",
       "dateOfBirth": "1975-05-29",
       "placeOfBirth": "Boppard, Rhineland-Palatinate, West Germany",
       "alive": true,
@@ -523,9 +523,9 @@
    {
       "id": 9,
       "birthName": "Jose Mario Covaco",
-      "stageName": "hoezaay",
-      "mother": "not known",
-      "father": "not known",
+      "name": "hoezaay",
+      "mother": "????",
+      "father": "????",
       "dateOfBirth": "1982-01-28",
       "placeOfBirth": "Mumbai, Maharashtra, India",
       "alive": true,
@@ -558,54 +558,67 @@
    },
    {
       "id": 10,
-      "birthName": "Daniel Dwight Tosh ",
-      "stageName": "jaspalbhatti",
-      "mother": "not known",
-      "father": "not known",
+      "birthName": "Jaspal Singh Bhatti",
+      "name": "jaspalbhatti",
+      "mother": "????",
+      "father": "????",
       "dateOfBirth": "1975-05-29",
-      "placeOfBirth": "Boppard, Rhineland-Palatinate, West Germany",
-      "alive": true,
-      "diedOn": null,
-      "height": "6'3 (1.91 m)",
-      "nationality": "american",
+      "placeOfBirth": "Amritsar, Punjab, India",
+      "alive": false,
+      "diedOn": "2012-10-25",
+      "height": "5'8 (1.74 m)",
+      "nationality": "indian",
       "workingSince": 1985,
       "education": [
-         "Quebec High School, Quebec, Canada",
-         "Gloucester High School, Ontario, Canada"
+         "Punjab Engineering College"
       ],
-      "twitter": "https://twitter.com/danieltosh",
-      "instagram": "https://www.instagram.com/tosh.0",
-      "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Tosh",
-      "imdb": "https://www.imdb.com/name/nm1169495/",
-      "officialWebsite": "http://danieltosh.com/",
+      "twitter": null,
+      "instagram": null,
+      "wikipedia": "https://en.wikipedia.org/wiki/Jaspal_Bhatti",
+      "imdb": "https://www.imdb.com/name/nm0080377",
+      "officialWebsite": null,
       "youtube": [
-         "https://www.youtube.com/channel/UCAp990eMLzmei84WNR4ptgA"
+         "https://www.youtube.com/channel/UCz_2dK_NrFwUbU2h4ojMiug"
       ],
-      "specials": [
-         "Ridiculous (2006)",
-         "Me Doing Stand-Up (2011)",
-         "Hitler's Dog, Gossip & Trickery (2017)"
-      ],
+      "specials": null,
       "movies": [
-         "Billy Madison (1995)",
-         "The People vs. Larry Flynt (1996)",
-         "Dirty Work (1998)",
-         "Dr. Dolittle (1998)",
-         "Deuce Bigalow: Male Gigolo (1999)",
-         "Man on the Moon (1999)",
-         "Screwed (2000)",
-         "The Animal (2001)",
-         "The 7th Dwarf (2014)",
-         "The Ridiculous Six (2015)",
-         "Treasure Hounds (2017)",
-         "Klaus (2019)"
+         "Dil Pardesi Ho Gaya (2013)",
+         "Power Cut (2012)",
+         "Dharti (2011)",
+         "Mausam (2011)",
+         "Hum Tum Shabana (2011)",
+         "Chak De Phatte (2009)",
+         "Ek: The Power of One (2009)",
+         "Fanaa (2006)",
+         "Nalaik (2006)",
+         "Mera Dil Leke Dekkho (2006)",
+         "Jija Ji (2005)",
+         "Kuchh Meetha Ho Jaye (2005)",
+         "Nalayak (2005)",
+         "Kuch Naa Kaho (2003)",
+         "Tujhe Meri Kasam (2003)",
+         "Jaani Dushman: Ek Anokhi Kahani (2002)",
+         "Koi Mere Dil Se Poochhe (2002)",
+         "Shakti: The Power (2002)",
+         "Yeh Hai Jalwa (2002) – Buta Singh",
+         "Hamara Dil Aapke Paas Hai (2000)",
+         "Khauff (2000)",
+         "Woh Bewafa Thi (2000)",
+         "Kartoos (1999)",
+         "Mahaul Theek Hai (1999)",
+         "Aa Ab Laut Chalen (1999)",
+         "Jaanam Samjha Karo (1999)",
+         "Kaala Samrajya (1999)",
+         "Wanted: Gurdas Mann Dead or Alive (1994)"
       ],
       "videoShows": [
-         "The Dennis Miller Show",
-         "Roseanne (1992-1993)",
-         "Saturday Night Live (1993–1998)",
-         "The Norm Show",
-         "A Minute with Stan Hooper"
+         "Ulta Pulta",
+         "Flop Show (1991)",
+         "Full Tension",
+         "Hi Zindagi Bye Zindagi (2003-2004)",
+         "Karishma – The Miracles of Destiny",
+         "Dhaba Junction",
+         "Thank you Jijaji"
       ],
       "talkShows": [
          "Sports Show with Norm Macdonald (2011)",
@@ -621,9 +634,9 @@
    {
       "id": 11,
       "birthName": "Daniel Dwight Tosh ",
-      "stageName": "davechappelle",
-      "mother": "not known",
-      "father": "not known",
+      "name": "davechappelle",
+      "mother": "????",
+      "father": "????",
       "dateOfBirth": "1975-05-29",
       "placeOfBirth": "Boppard, Rhineland-Palatinate, West Germany",
       "alive": true,
@@ -683,9 +696,9 @@
    {
       "id": 12,
       "birthName": "Daniel Dwight Tosh ",
-      "stageName": "biswakalyanrath",
-      "mother": "not known",
-      "father": "not known",
+      "name": "biswakalyanrath",
+      "mother": "????",
+      "father": "????",
       "dateOfBirth": "1975-05-29",
       "placeOfBirth": "Boppard, Rhineland-Palatinate, West Germany",
       "alive": true,
@@ -745,7 +758,7 @@
    {
       "id": 13,
       "birthName": "Zakir Khan",
-      "stageName": "zakirkhan",
+      "name": "zakirkhan",
       "mother": "Kulsum Khan",
       "father": "Ismail Khan",
       "dateOfBirth": "1987-08-20",
@@ -773,14 +786,87 @@
          "On Air with AIB (2015)",
          "Chacha Vidhayak Hain Humare (2018)",
          "Comicstaan Season 2 (2019)",
-         " The Great Indian Laughter Challenge (2019)"
+         "The Great Indian Laughter Challenge (2019)"
       ],
       "talkShows": [
          "Hmm Achha Theek Hai with Zakir Khan"
       ],
       "audioShows": [
-         "Ummeed on Gaana (2020)"
+         "Ummeed (2020)"
       ],
+      "books": null
+   },
+   {
+      "id": 14,
+      "birthName": "Kunal kamra",
+      "name": "kunalkamra",
+      "mother": null,
+      "father": null,
+      "dateOfBirth": "1988-10-03",
+      "placeOfBirth": "Mahim, Mumbai, India",
+      "alive": true,
+      "diedOn": null,
+      "height": "5'7 (1.7 m)",
+      "nationality": "indian",
+      "workingSince": 2013,
+      "education": [
+         "Jai Hind College"
+      ],
+      "twitter": "https://twitter.com/kunalkamra88?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+      "instagram": "https://www.instagram.com/kuna_kamra/?hl=en",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kunal_Kamra",
+      "imdb": "https://www.imdb.com/name/nm8715549/",
+      "officialWebsite": "https://kunalkamra.in/",
+      "youtube": [
+         "https://www.youtube.com/channel/UC7sbc0Ed3_yMu-etXVpj7cg"
+      ],
+      "specials": null,
+      "movies": null,
+      "videoShows": null,
+      "talkShows": [
+         "Shut Up Ya Kunal (2017-2019)",
+         "One Mic Stand (2019)"
+      ],
+      "audioShows": [
+         "Team Baan: Monday Morning Podcast (2020)",
+         "Why Are We Even (2020)"
+      ],
+      "books": [
+         null
+      ]
+   },
+   {
+      "id": 15,
+      "birthName": "Anubhav Singh Bassi",
+      "name": "bassi",
+      "mother": null,
+      "father": null,
+      "dateOfBirth": "1991-01-09",
+      "placeOfBirth": "Meerut, Uttar Pradesh, India",
+      "alive": true,
+      "diedOn": null,
+      "height": "6'1 (1.85 m)",
+      "nationality": "indian",
+      "workingSince": 2017,
+      "education": [
+         "Dewan Public School, Meerut",
+         "Dr. Ram Manohar Lohiya Nationl Law University, Lucknow, Uttar Pradesh"
+      ],
+      "twitter": "https://twitter.com/be_a_bassi",
+      "instagram": "https://www.instagram.com/be_a_bassi",
+      "wikipedia": "https://en.wikipedia.org/wiki/Anubhav_Singh_Bassi",
+      "imdb": "https://www.imdb.com/name/nm11811624/",
+      "officialWebsite": "https://www.anubhavbassi.com/",
+      "youtube": [
+         "https://www.youtube.com/channel/UCKnZHF24IV9PT0cdSdHoWug"
+      ],
+      "specials": null,
+      "movies": null,
+      "videoShows": null,
+      "talkShows": [
+         "Bas kar Bassi"
+      ],
+      "audioShows": null,
       "books": null
    }
 ]

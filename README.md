@@ -20,7 +20,7 @@
 {
    "id": 1,
    "birthName": "Norman Gene Macdonald",
-   "stageName": "normmacdonald",
+   "name": "normmacdonald",
    "mother": "Ferne Macdonald",
    "father": "Percy Lloyd Macdonald",
    "dateOfBirth": "1959-10-17",
