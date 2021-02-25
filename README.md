@@ -1,14 +1,7 @@
 <p align="center"><img height="200" src="https://github.com/ahampriyanshu/norm/raw/media/logo.png"></p>
 <h5 align="center">a funny api for funny people</h5>
 
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ahampriyanshu/norm_has_an_api)
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/ahampriyanshu/norm_has_an_api)
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ahampriyanshu/norm_has_an_api)
-[![size](https://img.shields.io/github/repo-size/ahampriyanshu/norm_has_an_api?style=flat-square)](https://github.com/ahampriyanshu/norm_has_an_api)
-[![API status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://normhasanapi.herokuapp.com/)
-
-## Base URL
+## API Endpoints
 
 * [https://normhasanapi.herokuapp.com/comic](https://normhasanapi.herokuapp.com/comic)
 * [https://normhasanapi.herokuapp.com/comical](https://normhasanapi.herokuapp.com/comical)
@@ -83,48 +76,51 @@
 ```
 
 ### Get a random comic
-``/api/comic``
+[api/comic](https://normhasanapi.herokuapp.com/comic)
 
 ### Get <integer> number of comic
-``/api/comic/<integer>``
+[api/comic/integer](https://normhasanapi.herokuapp.com/comic/6)
 
 ### Get a comic by id
-``/api/comic/id/<integer>``
+[api/comic/id/integer](https://normhasanapi.herokuapp.com/comic/id/12)
 
 ### Get a comic by name
-``/api/comic/name/<string>``
+[api/comic/name/string](https://normhasanapi.herokuapp.com/comic/name/billburr)
 
 ### Get a comic by nationality
-``/api/comic/county/<string>``
+[api/comic/country/string](https://normhasanapi.herokuapp.com/comic/country/indian)
 
 ### Get a living/dead comic
-``/api/comic/isAlive/<boolean>``
+[api/comic/isAlive/boolean](https://normhasanapi.herokuapp.com/comic/isAlive/false)
 
 ### Get a comic working since
-``/api/comic/since/<integer>``
+[api/comic/since/integer](https://normhasanapi.herokuapp.com/comic/since/1975)
 ### Get a comic by age
-``/api/comic/minAge/<integer>``
-``/api/comic/maxAge/<integer>``
-``/api/comic/bornAfter/<integer>``
-``/api/comic/bornBefore/<integer>``
+[api/comic/minAge/integer](https://normhasanapi.herokuapp.com/comic/minAge/40)<br>
+[api/comic/maxAge/integer](https://normhasanapi.herokuapp.com/comic/maxAge/60)<br>
+[api/comic/bornAfter/integer](https://normhasanapi.herokuapp.com/comic/bornAfter/1980)<br>
+[api/comic/bornBefore/integer](https://normhasanapi.herokuapp.com/comic/bornBefore/1960)
 
 ## Comical Endpoints
 
 ```json
 [
 {
-    "id": 7,
-    "content": "We hang the petty thieves and appoint the great ones to public office.",
-    "by": "Aesop"
+  "id": 11,
+  "content": "When the President does it, that means that it's not illegal.",
+  "by": "Richard M. Nixon"
 }
 ]
 ```
 
 ### Get a random joke/quote/fact
-``/api/comical``
+[api/comical](https://normhasanapi.herokuapp.com/comical)
 
-### Get <integer> number of joke/quote/fact
-``/api/comical/<integer>``
+### Get a joke/quote/fact by id
+[api/comical/id/integer](https://normhasanapi.herokuapp.com/comical/id/12)
+
+### Get <integer> number of jokes/quotes/facts
+[api/comical/integer](https://normhasanapi.herokuapp.com/comical/8)
 
 ## Contributing
 
